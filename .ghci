@@ -1,0 +1,8 @@
+:set prompt "λ> "
+:seti -XOverloadedStrings
+:seti -XScopedTypeVariables
+:set -Wall
+:set -fno-warn-type-defaults
+:set -DGHCI
+:set +s
+:set +t
